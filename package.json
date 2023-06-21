@@ -1,0 +1,21 @@
+{
+  "name": "bakstyle",
+  "displayName": "BakStyle",
+  "description": "a theme because i can't find the perfect them for me",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BakStyle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BakStyle-color-theme.json"
+      }
+    ]
+  }
+}
