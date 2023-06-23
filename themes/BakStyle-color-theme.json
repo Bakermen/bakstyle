@@ -1,6 +1,7 @@
 {
 	"name": "BakStyle",
 	"colors": {
+		"editor.selectionBackground": "#3b793b",
 		"focusBorder": "#00ff00",
 		"foreground": "#79849b",
 		"widget.shadow": "#00010a",
@@ -75,9 +76,8 @@
 		"editorLineNumber.foreground": "#3d424d99",
 		"editorLineNumber.activeForeground": "#3d424de6",
 		"editorCursor.foreground": "#fff",
-		"editor.selectionBackground": "#79849b",
 		"editor.inactiveSelectionBackground": "#121922",
-		"editor.selectionHighlightBackground": "#121922",
+		"editor.selectionHighlightBackground": "#00ff00",
 		"editor.selectionHighlightBorder": "#1d2936",
 		"editor.wordHighlightBackground": "#121922",
 		"editor.wordHighlightStrongBackground": "#00ff0033",
