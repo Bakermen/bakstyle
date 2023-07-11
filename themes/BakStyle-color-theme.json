@@ -6,7 +6,7 @@
 		"foreground": "#79849b",
 		"widget.shadow": "#00010a",
 		"selection.background": "#4e545f",
-		"textBlockQuote.background": "#080a0e",
+		"textBlockQuote.background": "#3b793b",
 		"textLink.foreground": "#00ff00",
 		"textLink.activeForeground": "#00ff00",
 		"textPreformat.foreground": "#b3b1ad",
@@ -77,9 +77,9 @@
 		"editorLineNumber.activeForeground": "#3d424de6",
 		"editorCursor.foreground": "#fff",
 		"editor.inactiveSelectionBackground": "#121922",
-		"editor.selectionHighlightBackground": "#00ff00",
+		"editor.selectionHighlightBackground": "#60c260",
 		"editor.selectionHighlightBorder": "#1d2936",
-		"editor.wordHighlightBackground": "#121922",
+		"editor.wordHighlightBackground": "#3b793b",
 		"editor.wordHighlightStrongBackground": "#00ff0033",
 		"editor.findMatchBackground": "#00ff000d",
 		"editor.findMatchBorder": "#00ff00",
@@ -161,7 +161,7 @@
 		"gitDecoration.modifiedResourceForeground": "#00ff00",
 		"gitDecoration.deletedResourceForeground": "#ff0000",
 		"gitDecoration.untrackedResourceForeground": "#02865f",
-		"gitDecoration.ignoredResourceForeground": "#242831",
+		"gitDecoration.ignoredResourceForeground": "#2c382c",
 		"gitDecoration.conflictingResourceForeground": "#ff00ff",
 		"gitDecoration.submoduleResourceForeground": "#ffee99b3",
 		"settings.headerForeground": "#b3b1ad",
@@ -288,7 +288,7 @@
 				"keyword"
 			],
 			"settings": {
-				"foreground": "#ff8f40"
+				"foreground": "#c95400"
 			}
 		},
 		{
@@ -451,6 +451,24 @@
 			],
 			"settings": {
 				"foreground": "#59c2ff"
+			}
+		},
+		{
+			"name": "Entity name type class",
+			"scope": [
+				"entity.name.type.class"
+			],
+			"settings": {
+				"foreground": "#007fd4"
+			}
+		},
+		{
+			"name": "Entity name type struct",
+			"scope": [
+				"entity.name.type.struct"
+			],
+			"settings": {
+				"foreground": "#007fd4"
 			}
 		},
 		{
